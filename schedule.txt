@@ -1,0 +1,9 @@
+Event Planner
+=============
+
+09:00 - Registration
+10:00 - Opening
+11:00 - Main Session
+12:30 - Lunch
+14:00 - Workshop
+16:00 - Closing
