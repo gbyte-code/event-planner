@@ -1,9 +1,18 @@
-Event Planner
-=============
+Event Schedule
 
-09:00 - Registration
-10:00 - Opening
-11:00 - Main Session
-12:30 - Lunch
-14:00 - Workshop
-16:00 - Closing
+09:00 - 09:30
+Registration and Welcome
+
+09:30 - 10:30
+Opening Session
+Introduction to the event and its goals.
+
+10:30 - 11:00
+Coffee Break
+
+11:00 - 12:00
+Main Workshop
+A practical session for participants.
+
+12:00 - 13:00
+Lunch Break
