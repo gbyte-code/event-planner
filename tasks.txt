@@ -1,4 +1,12 @@
-[ ] Prepare registration desk
-[ ] Confirm speakers
-[ ] Prepare workshop materials
-[ ] Check projector
+Event Tasks
+
+[X] Prepare the event schedule
+[ ] Confirm the event location
+[ ] Prepare presentation materials
+[ ] Assign responsibilities to team members
+[ ] Prepare registration list
+[ ] Check required equipment
+[ ] Send event information to participants
+[ ] Review the final schedule
+[ ] Prepare the event area
+[ ] Review all tasks before the event
